@@ -8,7 +8,7 @@ import {
 } from "react";
 import { supabase } from "../functions/supabase";
 import { INVOKE, SEND } from "../functions/ipc";
-import { applySavedPermanentVariables, copyTextToClipboard, SendMessage } from "../functions/scripts";
+import { applySavedPermanentVariables, copyTextToClipboard } from "../functions/scripts";
 import logo from "/logo.png"
 import { PatchNotesData } from "../functions/patchNotes";
 import { GetNameFromUID } from "../functions/dbhelper";
