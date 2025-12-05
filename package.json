@@ -1,7 +1,7 @@
 {
   "name": "families",
   "private": false,
-  "version": "1.3.0",
+  "version": "1.3.1",
   "type": "module",
   "description": "An app to manage fivem rp server families with realtime actions and user friendly interface",
   "author": "LAAGU",
